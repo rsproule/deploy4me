@@ -1,2 +1,5 @@
+@openzeppelin/contracts/=lib/openzeppelin-contracts/contracts/
+create2deployer/=lib/create2deployer/
 ds-test/=lib/forge-std/lib/ds-test/src/
 forge-std/=lib/forge-std/src/
+openzeppelin-contracts/=lib/openzeppelin-contracts/
